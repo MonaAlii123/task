@@ -72,7 +72,7 @@ int main() {
 
     do {
         printf("1. Register\n");
-        printf("2. Login\n");
+        printf("2.  Login\n");
         printf("3. Exit\n");
         printf("Enter your operation: ");
         scanf("%d", &operation);
